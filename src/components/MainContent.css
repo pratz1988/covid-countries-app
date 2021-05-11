@@ -1,0 +1,30 @@
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  /* width: 1000px; */
+  height: 900px;
+  margin: 0 100px 0 100px;
+  justify-content: space-around;
+}
+.infoDiv {
+  border: 2px solid ghostwhite;
+  border-radius: 7px;
+  margin: 20px;
+  width: 220px;
+  height: 230px;
+}
+
+.cnNameDiv {
+  text-align: center;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+.contentDiv {
+  width: 200px;
+  height: 25px;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 15px;
+}
